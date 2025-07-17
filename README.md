@@ -6,7 +6,7 @@
 Seoul National University
 \*Equal contribution, †Corresponding author
 
-[📄 Paper (arXiv)](https://arxiv.org/abs/2507.11061) | [📽️ Project Page](https://janeyeon.github.io/romap/) | [🔁 BibTeX](#citation) | [🗄️ Dataset](https://drive.google.com/drive/folders/1V3fHMUGB5y06pa1tnqnOEHGly-P7kjJa?usp=sharing)
+[📄 Paper (arXiv)](https://arxiv.org/abs/2507.11061) | [📽️ Project Page](https://janeyeon.github.io/romap/) | [🔁 BibTeX](#citation) 
 
 ## Overview
 
