@@ -22,6 +22,14 @@ Unlike existing baselines which struggle with local edits due to inconsistent 2D
 - ✅ Gaussian prior removal and local masking
 - ✅ Regularized SDS with `SLaMP` (Scheduled Latent Mixing and Part Editing) image supervision
 
+## Visual Results 
+
+### Example 1: Open Vocabulary Part Segmentation
+![Segmentation](assets/segmentation.gif)
+
+### Example 2: Controllable Part Editing
+![Editing](assets/editing.gif)
+
 
 ## Key Features
 
