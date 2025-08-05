@@ -181,7 +181,6 @@ outputs/
 outputs-gradio/
 workspace_test/
 data_test/
-load/
 results/
 *.ply
 *.mp4
